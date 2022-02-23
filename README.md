@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shellie10
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning how to code
+- 💞️ I’m looking to collaborate on Makecode
+- 📫 How to reach me stadia shellie10
